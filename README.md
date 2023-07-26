@@ -12,7 +12,7 @@ If you enjoyed exploring this project, I invite you to check out my other projec
 
 Feel free to explore these projects at your convenience. Each one offers a unique experience and showcases different aspects of my skills and interests.
 
-##Author
+## Author
 - Frontend Mentor - [@AliDurul](https://www.frontendmentor.io/profile/DURUL-26)
 - Githup - [@AliDurul](https://github.com/AliDurul)
 
