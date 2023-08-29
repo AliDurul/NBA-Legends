@@ -1,5 +1,8 @@
 ## Welcome to My Project! 👋
 
+![nbaLegends](https://github.com/AliDurul/NBA-Legends/assets/80897590/1acc2dcb-3705-4ea4-8b90-554716ee596c)
+
+
 Thank you for visiting my projects! I'm thrilled to have you here, and I hope you find it interesting and helpful.
 
 ## About Me
